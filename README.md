@@ -21,6 +21,8 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 2** | Python - Vücut Kitle İndeksi | [Google Colab'da Aç](https://colab.research.google.com/drive/1vdM6FjuNzUhs037oLOhll9Y2-tCMqei3?usp=sharing) |
 | **Ödev 3** | Python - Restaurant Tips | [Google Colab'da Aç](https://colab.research.google.com/drive/17ch6P7Aczyqi4ajOqTESGjKSYId_ZB-7?usp=sharing) |
 | **Ödev 4** | Ders-3 Devam Ödevi | [Google Colab'da Aç](https://colab.research.google.com/drive/1X_0cZokpyOLy30WDb64CUJVHNgC5Ii1L#scrollTo=b5c58ff0) |
-| **Ödev 5** | Titanik Yarışması | [Kaggle'da Aç](https://www.kaggle.com/code/batuhanakmak/titanik) |
+| **Ödev 5** | Titanik Yarışması | [Kaggle'da Aç](https://www.kaggle.com/code/batuhanakmak/titanik-2026) |
+| **Ödev 6** | GitHub Profil | [GitHub'da Aç](https://batuhancakmak7.github.io/) |
+
 ---
 *Bu repository 02 Şubat 2026 tarihinde başlayan eğitim süreci boyunca güncellenmeye devam edecektir.*
