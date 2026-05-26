@@ -14,6 +14,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 7** | Toplu Görsel İndirme | [Google Colab'da Aç](https://colab.research.google.com/drive/110I9xpTLipPkYaDFxartOqDpGOfo7aQy?usp=sharing) |
 | **Ders 8** | Online Form | [Google Colab'da Aç](https://colab.research.google.com/drive/1_Z8YKnCvZSwUipYTeXcaJYjKkge67C5b?usp=sharing) |
 | **Ders 9** | Pandas Veri Çekme | [Google Colab'da Aç](https://colab.research.google.com/drive/1dP68IdjzxlOA-_OBiOzxWBTFOYtroNhY?usp=sharing) |
+| **Ders 10** | Corona ve Dünya Nufusu Yarışan Grafikler | [Google Colab'da Aç](https://colab.research.google.com/drive/1aSUY3LAbB1mhC0ZtEeylRsq9HghEeTTX?usp=sharing) |
 
 ---
 
@@ -28,6 +29,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 5** | Ders-4 Titanik Yarışması | [Kaggle'da Aç](https://www.kaggle.com/code/batuhanakmak/titanik-2026) |
 | **Ödev 6** | GitHub Profil | [GitHub'da Aç](https://batuhancakmak7.github.io/) |
 | **Ödev 7** | Araç Fiyat Tahmini | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/Arac_Fiyat_Tahmin) |
+| **Ödev 8** | Yarışan Grafikler Videoları | [Github'ta Aç](https://github.com/BatuhanCakmak7/YZ-VB-Egitim/tree/main/data) |
 
 
 ---
