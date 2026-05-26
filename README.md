@@ -12,6 +12,8 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 5** | Araç Fiyat Tahmini | [Google Colab'da Aç](https://colab.research.google.com/drive/1W_D-BZQn2o6SWVZt6MG6S8tpGR0N48aA?usp=sharing) |
 | **Ders 6** | Slider Foto| [Google Colab'da Aç](https://colab.research.google.com/drive/1iQqBmxTZw7W-kcQiU_hoQWk0o9-KRAHX?usp=sharing) |
 | **Ders 7** | Toplu Görsel İndirme | [Google Colab'da Aç](https://colab.research.google.com/drive/110I9xpTLipPkYaDFxartOqDpGOfo7aQy?usp=sharing) |
+| **Ders 8** | Online Form | [Google Colab'da Aç](https://colab.research.google.com/drive/1_Z8YKnCvZSwUipYTeXcaJYjKkge67C5b?usp=sharing) |
+| **Ders 9** | Pandas Veri Çekme | [Google Colab'da Aç](https://colab.research.google.com/drive/1dP68IdjzxlOA-_OBiOzxWBTFOYtroNhY?usp=sharing) |
 
 ---
 
