@@ -16,6 +16,9 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 9** | Pandas Veri Çekme | [Google Colab'da Aç](https://colab.research.google.com/drive/1dP68IdjzxlOA-_OBiOzxWBTFOYtroNhY?usp=sharing) |
 | **Ders 10** | Corona ve Dünya Nufusu Yarışan Grafikler | [Google Colab'da Aç](https://colab.research.google.com/drive/1aSUY3LAbB1mhC0ZtEeylRsq9HghEeTTX?usp=sharing) |
 | **Ders 11** | Google AI Studio - Dizi-Film Platformu | [Google AI Studio'da Aç](https://ai.studio/apps/4e9f0b66-93de-4bb1-8df6-a453aef626c0) |
+| **Ders 12** | Google Trends | [Google Colab'da Aç](https://colab.research.google.com/drive/1nWkJuCcVnHmrc53Uw3JsI2o36C8vNBOo?usp=sharing) |
+| **Ders 13** | Gradio Arayüz ile Google Trends(Colab) | [Google Colab'da Aç](https://colab.research.google.com/drive/1lP3uobLACEeZzMvXFcLxgzKOFE_LTbcj?usp=sharing) |
+| **Ders 14** | Finans Verileri | [Google Colab'da Aç](eklenecek) |
 
 ---
 
@@ -31,6 +34,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 6** | GitHub Profil | [GitHub'da Aç](https://batuhancakmak7.github.io/) |
 | **Ödev 7** | Araç Fiyat Tahmini | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/Arac_Fiyat_Tahmin) |
 | **Ödev 8** | Yarışan Grafikler Videoları | [Github'ta Aç](https://github.com/BatuhanCakmak7/YZ-VB-Egitim/tree/main/data) |
+| **Ödev 9** | Google Trends Gradio - HF Spaces | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/GoogleTrendsAnalysis) |
 
 
 ---
