@@ -15,6 +15,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 8** | Online Form | [Google Colab'da Aç](https://colab.research.google.com/drive/1_Z8YKnCvZSwUipYTeXcaJYjKkge67C5b?usp=sharing) |
 | **Ders 9** | Pandas Veri Çekme | [Google Colab'da Aç](https://colab.research.google.com/drive/1dP68IdjzxlOA-_OBiOzxWBTFOYtroNhY?usp=sharing) |
 | **Ders 10** | Corona ve Dünya Nufusu Yarışan Grafikler | [Google Colab'da Aç](https://colab.research.google.com/drive/1aSUY3LAbB1mhC0ZtEeylRsq9HghEeTTX?usp=sharing) |
+| **Ders 11** | Google AI Studio - Dizi-Film Platformu | [Google AI Studio'da Aç](https://ai.studio/apps/4e9f0b66-93de-4bb1-8df6-a453aef626c0) |
 
 ---
 
