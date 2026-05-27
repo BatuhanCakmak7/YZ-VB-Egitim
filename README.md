@@ -19,6 +19,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 12** | Google Trends | [Google Colab'da Aç](https://colab.research.google.com/drive/1nWkJuCcVnHmrc53Uw3JsI2o36C8vNBOo?usp=sharing) |
 | **Ders 13** | Gradio Arayüz ile Google Trends(Colab) | [Google Colab'da Aç](https://colab.research.google.com/drive/1lP3uobLACEeZzMvXFcLxgzKOFE_LTbcj?usp=sharing) |
 | **Ders 14** | Finans Verileri | [Google Colab'da Aç](https://colab.research.google.com/drive/1g3oTX3gIVcooAevxLkxxuRvsKFBEQ922?usp=sharing) |
+| **Ders 15** | OpenWeather API | [Google Colab'da Aç](https://colab.research.google.com/drive/1hCOe9Q8dkn5q_dDJu4z4DsiRBzIw_JSN?usp=sharing) |
 
 ---
 
