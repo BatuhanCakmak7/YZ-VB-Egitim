@@ -20,6 +20,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 13** | Gradio Arayüz ile Google Trends(Colab) | [Google Colab'da Aç](https://colab.research.google.com/drive/1lP3uobLACEeZzMvXFcLxgzKOFE_LTbcj?usp=sharing) |
 | **Ders 14** | Finans Verileri | [Google Colab'da Aç](https://colab.research.google.com/drive/1g3oTX3gIVcooAevxLkxxuRvsKFBEQ922?usp=sharing) |
 | **Ders 15** | OpenWeather API | [Google Colab'da Aç](https://colab.research.google.com/drive/1hCOe9Q8dkn5q_dDJu4z4DsiRBzIw_JSN?usp=sharing) |
+| **Ders 16** | Müşteri Terk Analizi - XGBoost | [Google Colab'da Aç](https://colab.research.google.com/drive/16jN3fE5BZNHm1b1Ezp_h4xL8LBIuSNjS?usp=sharing) |
 
 ---
 
@@ -36,6 +37,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 7** | Araç Fiyat Tahmini | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/Arac_Fiyat_Tahmin) |
 | **Ödev 8** | Yarışan Grafikler Videoları | [Github'ta Aç](https://github.com/BatuhanCakmak7/YZ-VB-Egitim/tree/main/data) |
 | **Ödev 9** | Google Trends Gradio - HF Spaces | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/GoogleTrendsAnalysis) |
+| **Ödev 10** | Müşteri Terk Analizi Colab Kod | [Google Colab'da Aç](https://colab.research.google.com/drive/16jN3fE5BZNHm1b1Ezp_h4xL8LBIuSNjS?usp=sharing) |
 
 
 ---
