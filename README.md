@@ -23,6 +23,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 16** | Müşteri Terk Analizi - XGBoost | [Google Colab'da Aç](https://colab.research.google.com/drive/16jN3fE5BZNHm1b1Ezp_h4xL8LBIuSNjS?usp=sharing) |
 | **Ders 17** | Zaman Serisi Analizi | [Google Colab'da Aç](https://colab.research.google.com/drive/1LTJC8kdPA3HOExmwIbxu7pLVonXS342I?usp=sharing) |
 | **Ders 18** | Adidas Veri Analizi - VibeCoding | [Google Colab'da Aç](https://colab.research.google.com/drive/1SqStOfptlS1qo2d7yNtqVAJdZQGuW94b?usp=sharing) |
+| **Ders 19** | Öneri Sistemleri | [Google Colab'da Aç](https://colab.research.google.com/drive/1A5Z0JYKEs88EsDrMU6I7fKreu4huCAKU?usp=sharing) |
 
 ---
 
@@ -41,6 +42,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 9** | Google Trends Gradio - HF Spaces | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/GoogleTrendsAnalysis) |
 | **Ödev 10** | Müşteri Terk Analizi Colab Kod | [Google Colab'da Aç](https://colab.research.google.com/drive/16jN3fE5BZNHm1b1Ezp_h4xL8LBIuSNjS?usp=sharing) |
 | **Ödev 11** | Zaman Serisi Analizi Colab Kod | [Google Colab'da Aç](https://colab.research.google.com/drive/1LTJC8kdPA3HOExmwIbxu7pLVonXS342I?usp=sharing) |
+| **Ödev 12** | Öneri Sistemleri Colab Kod | [Google Colab'da Aç](https://colab.research.google.com/drive/1A5Z0JYKEs88EsDrMU6I7fKreu4huCAKU?usp=sharing) |
 
 
 ---
