@@ -26,6 +26,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 19** | Öneri Sistemleri | [Google Colab'da Aç](https://colab.research.google.com/drive/1A5Z0JYKEs88EsDrMU6I7fKreu4huCAKU?usp=sharing) |
 | **Ders 20** | OpenCV ile Görüntü İşleme | [Google Colab'da Aç](https://colab.research.google.com/drive/1bPz-QYzRIKcZPp_phCHtFbHNlnAZDE6A?usp=sharing) |
 | **Ders 22** | Deep Learning (MNIST Uygulaması) | [Google Colab'da Aç](https://colab.research.google.com/drive/1FuZwQ27DRvsKYUvyfgi7lAZIsHu5HcAe?usp=sharing) |
+| **Ders 23** | Deep Learning KERAS ANN vs Linear Regression | [Google Colab'da Aç](https://colab.research.google.com/drive/1-8QcE8cS6EvyLV1D9tCAndhrctTvYseJ?usp=sharing) |
 ---
 
 ## 📝 Ödevler ve Projeler
