@@ -25,6 +25,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 18** | Adidas Veri Analizi - VibeCoding | [Google Colab'da Aç](https://colab.research.google.com/drive/1SqStOfptlS1qo2d7yNtqVAJdZQGuW94b?usp=sharing) |
 | **Ders 19** | Öneri Sistemleri | [Google Colab'da Aç](https://colab.research.google.com/drive/1A5Z0JYKEs88EsDrMU6I7fKreu4huCAKU?usp=sharing) |
 | **Ders 20** | OpenCV ile Görüntü İşleme | [Google Colab'da Aç](https://colab.research.google.com/drive/1bPz-QYzRIKcZPp_phCHtFbHNlnAZDE6A?usp=sharing) |
+| **Ders 22** | Deep Learning (MNIST Uygulaması) | [Google Colab'da Aç](https://colab.research.google.com/drive/1FuZwQ27DRvsKYUvyfgi7lAZIsHu5HcAe?usp=sharing) |
 ---
 
 ## 📝 Ödevler ve Projeler
