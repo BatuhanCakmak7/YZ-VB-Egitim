@@ -40,6 +40,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ödev 7** | Araç Fiyat Tahmini | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/Arac_Fiyat_Tahmin) |
 | **Ödev 8** | Yarışan Grafikler Videoları | [Github'ta Aç](https://github.com/BatuhanCakmak7/YZ-VB-Egitim/tree/main/data) |
 | **Ödev 9** | Google Trends Gradio - HF Spaces | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/GoogleTrendsAnalysis) |
+| **Ödev 10** | Foto Filter - HF Spaces | [Hugging Face'te Aç](https://huggingface.co/spaces/BatuhanCakmak/foto-filter-app) |
 
 
 ---
