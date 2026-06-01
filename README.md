@@ -28,6 +28,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 22** | Deep Learning (MNIST Uygulaması) | [Google Colab'da Aç](https://colab.research.google.com/drive/1FuZwQ27DRvsKYUvyfgi7lAZIsHu5HcAe?usp=sharing) |
 | **Ders 23** | Deep Learning KERAS ANN vs Linear Regression | [Google Colab'da Aç](https://colab.research.google.com/drive/1-8QcE8cS6EvyLV1D9tCAndhrctTvYseJ?usp=sharing) |
 | **Ders 24** | NLP - Doğal Dil İşlemenin Temelleri | [Google Colab'da Aç](https://colab.research.google.com/drive/1HeWsDGePYN0etC46EOHh84I7hOQx8CO6?usp=sharing) |
+| **Ders 25** | NLP - YouTube Metin Sınıflandırıcı ve Deploy | [Google Colab'da Aç](https://colab.research.google.com/drive/1ngQBLDfQGVpD40FRM5K27QRIPddQqi2D?usp=sharing) |
 ---
 
 ## 📝 Ödevler ve Projeler
