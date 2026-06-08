@@ -31,6 +31,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 25** | NLP - YouTube Metin Sınıflandırıcı ve Deploy | [Google Colab'da Aç](https://colab.research.google.com/drive/1ngQBLDfQGVpD40FRM5K27QRIPddQqi2D?usp=sharing) |
 | **Ders 26** | Kelime Bulutu | [Google Colab'da Aç](https://colab.research.google.com/drive/1tBbqxD1-iUt3fK6grBAr2xtiG0566k5p?usp=sharing) |
 | **Ders 27** | HF Transformers | [Google Colab'da Aç](https://colab.research.google.com/drive/1ix5_asAzxgq5j9nvx2_geagC1srfCzxK?usp=sharing) |
+| **Ders 28** | HF - FB Translator | [Google Colab'da Aç](https://colab.research.google.com/drive/1Tlko6iYsmT6MJXQsVlxufWhQxFpQScvL?usp=sharing) |
 ---
 
 ## 📝 Ödevler ve Projeler
