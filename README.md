@@ -33,6 +33,7 @@ Yapay Zeka ve Veri Bilimi Eğitimi kapsamında oluşturulmuş çalışma notlar�
 | **Ders 27** | HF Transformers | [Google Colab'da Aç](https://colab.research.google.com/drive/1ix5_asAzxgq5j9nvx2_geagC1srfCzxK?usp=sharing) |
 | **Ders 28** | HF - FB Translator | [Google Colab'da Aç](https://colab.research.google.com/drive/1Tlko6iYsmT6MJXQsVlxufWhQxFpQScvL?usp=sharing) |
 | **Ders 29** | HF - Object Detection | [Google Colab'da Aç](https://colab.research.google.com/drive/1i9ix4Dy2DSoWuepqbV8ax2XZZJt7_PfC?usp=sharing) |
+| **Ders 30** | HF - Object Detection 3 Farklı Yol | [Google Colab'da Aç](https://colab.research.google.com/drive/17hUsZ5qRGdCBeOtJl-5fQ_7fxMuirC2T?usp=sharing) |
 ---
 
 ## 📝 Ödevler ve Projeler
